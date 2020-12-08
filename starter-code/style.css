@@ -130,11 +130,12 @@ button.submit:hover{
     justify-content: space-between;
     align-items: center;
     margin-top: 34px;
-    width:70%;
+    width:90%;
     min-width: 540px;  
 }
 .social>img{
     opacity: .7;
+    height:21px;
 }
 .social>img:hover{
     opacity:1;
@@ -273,7 +274,7 @@ button.submit:hover{
         color:var(--blueish-grey);
     }
     .social>img{
-        height:16px;
+        height:12px;
         color:var(--blueish-grey);
     }
     .input-container{
