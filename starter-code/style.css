@@ -131,8 +131,13 @@ button.submit:hover{
     align-items: center;
     margin-top: 34px;
     width:70%;
-    min-width: 540px;
-    
+    min-width: 540px;  
+}
+.social>img{
+    opacity: .7;
+}
+.social>img:hover{
+    opacity:1;
 }
 
 .message{
